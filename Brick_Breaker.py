@@ -112,7 +112,7 @@ class Game(tk.Frame):
 
     def __init__(self, master):
         super(Game, self).__init__(master)
-        self.lives = 3
+        self.lives = 4
         self.width = 1000
         self.height = 400
 
