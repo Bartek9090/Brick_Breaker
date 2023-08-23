@@ -1,4 +1,4 @@
-# Portfolio Website
+# Brick Breaker Games
 -------------------------
 
 ## Description
@@ -10,18 +10,12 @@ Break the bricks and WIN!
 git clone https://github.com/Bartek9090/Brick_Breaker  <br/>
 To run this project, install it locally, and execute a program.
 
-
 ##  Controls
-Left arrow and right arrow to control the paddle and bonce off the ball. 
+Use the left and right arrows to control the paddle.
+Bounce ball off the walls and smash all bricks. 
 
 ## Help
-If you have any problem with website please do not hesitate text to me.
+If you have any problem with the games please do not hesitate text to me.
 
 ## Authors
 Bartek9090
-
-## Version History
-
-Verion 1.0.0
-
-
